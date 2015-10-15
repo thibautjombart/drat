@@ -1,6 +1,10 @@
 # OutbreakResources/drat
 
-Our [drat](https://github.com/eddelbuettel/drat) repository.  To rebuild the repository install `drat.builder` with
+Our [drat](https://github.com/eddelbuettel/drat) repository.  Plaese see [the webpage](https://outbreakresources.github.io/drat) for more information.
+
+# Updating the website
+
+To rebuild the repository install `drat.builder` with
 
 ```
 devtools::install_github("richfitz/drat.builder")
