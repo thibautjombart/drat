@@ -35,6 +35,16 @@ License: GPL (>= 2)
 MD5sum: 29f3d792f43584e370f3a2df1cd138e2
 NeedsCompilation: yes
 
+Package: OutbreakTools
+Version: 0.1-13.999
+Depends: R (>= 3.0.0), methods, ggplot2, network, knitr
+Imports: utils, RColorBrewer, ape, reshape2, sna, plyr, ggmap, scales,
+        rjson, networkDynamic, RCurl
+Suggests: EpiEstim
+License: GPL (>= 2)
+MD5sum: 286ff52476daa2b8df47726a78f4c0e9
+NeedsCompilation: no
+
 Package: repijson
 Version: 0.1.1.0
 Depends: R (>= 3.1.0)
