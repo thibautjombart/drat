@@ -1,3 +1,12 @@
+Package: apex
+Version: 1.0.1
+Depends: R (>= 3.1.3), methods, ape, phangorn
+Imports: utils, graphics, stats, grDevices, adegenet
+Suggests: testthat, knitr
+License: GPL (>= 2)
+MD5sum: b4340fea15a739b6dac929c4888f2c7e
+NeedsCompilation: no
+
 Package: epimap
 Version: 0.1
 Depends: R (>= 3.0.2),
