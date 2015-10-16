@@ -16,6 +16,16 @@ License: GPL-2
 MD5sum: 7025ae9b911e246a23435c454d71836f
 NeedsCompilation: no
 
+Package: mapData
+Version: 0.0.0.9000
+Depends: R (>= 3.1.1)
+Imports: dplyr, ggmap, lubridate, assertthat, lazyeval, maptools, sp,
+        spatstat, Hmisc
+Suggests: testthat
+License: CC0
+MD5sum: 945fc7009083aafe92fd60e6a5c12208
+NeedsCompilation: no
+
 Package: repijson
 Version: 0.1.1.0
 Depends: R (>= 3.1.0)
