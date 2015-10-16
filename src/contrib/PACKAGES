@@ -5,7 +5,7 @@ Imports: scales, ggmap, gridExtra, animation, lubridate, methods,
         OutbreakTools, data.table
 Suggests: testthat, zoo, xts, knitr
 License: GPL-2
-MD5sum: eb363992e8427d74d592b5d09b70a901
+MD5sum: 7025ae9b911e246a23435c454d71836f
 NeedsCompilation: no
 
 Package: repijson
