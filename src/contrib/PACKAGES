@@ -52,6 +52,6 @@ Imports: OutbreakTools, jsonlite, plyr, sp, ggplot2, geojsonio,
         base64enc, rjson
 Suggests: HistData, knitr, testthat, rgdal
 License: GPL (>= 2)
-MD5sum: 038257d40ed57a038442d8973a742eaa
+MD5sum: ba8712795a825f8f6e10095e9671dcac
 NeedsCompilation: no
 
