@@ -1,3 +1,13 @@
+Package: incidence
+Version: 0.0.0.9000
+Depends: R (>= 3.1.2), ggplot2
+Imports: scales, ggmap, gridExtra, animation, lubridate, methods,
+        OutbreakTools, data.table
+Suggests: testthat, zoo, xts, knitr
+License: GPL-2
+MD5sum: eb363992e8427d74d592b5d09b70a901
+NeedsCompilation: no
+
 Package: repijson
 Version: 0.1.1.0
 Depends: R (>= 3.1.0)
