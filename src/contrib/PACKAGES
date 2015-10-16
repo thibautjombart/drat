@@ -41,7 +41,7 @@ Depends: R (>= 3.0.0), parallel
 Imports: utils, graphics, ape, igraph, adegenet
 Suggests: EpiEstim, OutbreakTools
 License: GPL (>= 2)
-MD5sum: 29f3d792f43584e370f3a2df1cd138e2
+MD5sum: ecb3463104a9712ca1276b82398ad2a1
 NeedsCompilation: yes
 
 Package: OutbreakTools
