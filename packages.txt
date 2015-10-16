@@ -1,1 +1,7 @@
 hackout2/repijson
+hackout2/epimap
+hackout2/mapData
+hackout2/incidence
+thibautjombart/apex
+thibautjombart/OutbreakTools
+thibautjombart/outbreaker
