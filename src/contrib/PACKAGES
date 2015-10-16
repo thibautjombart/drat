@@ -3,7 +3,7 @@ Version: 0.1
 Depends: R (>= 3.0.2),
 Imports: geosphere, rleafmap, igraph, sp
 License: GPL-2
-MD5sum: daacbd49acc9cabf7f6e40c6cbc41d25
+MD5sum: d40270fb50a97ee9853351da09b0ced1
 NeedsCompilation: no
 
 Package: incidence
