@@ -26,6 +26,15 @@ License: CC0
 MD5sum: 945fc7009083aafe92fd60e6a5c12208
 NeedsCompilation: no
 
+Package: outbreaker
+Version: 1.1-7
+Depends: R (>= 3.0.0), parallel
+Imports: utils, graphics, ape, igraph, adegenet
+Suggests: EpiEstim, OutbreakTools
+License: GPL (>= 2)
+MD5sum: 29f3d792f43584e370f3a2df1cd138e2
+NeedsCompilation: yes
+
 Package: repijson
 Version: 0.1.1.0
 Depends: R (>= 3.1.0)
