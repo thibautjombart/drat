@@ -51,7 +51,7 @@ Imports: utils, RColorBrewer, ape, reshape2, sna, plyr, ggmap, scales,
         rjson, networkDynamic, RCurl
 Suggests: EpiEstim
 License: GPL (>= 2)
-MD5sum: 286ff52476daa2b8df47726a78f4c0e9
+MD5sum: e2c83afb6cf80c97ec8c634c7b5e54ae
 NeedsCompilation: no
 
 Package: repijson
