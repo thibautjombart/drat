@@ -3,5 +3,6 @@ hackout2/epimap
 hackout2/mapData
 hackout2/incidence
 thibautjombart/apex
+thibautjombart/treescape
 thibautjombart/OutbreakTools
 thibautjombart/outbreaker
