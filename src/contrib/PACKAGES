@@ -22,7 +22,7 @@ Imports: scales, ggmap, gridExtra, animation, lubridate, methods,
         OutbreakTools, data.table
 Suggests: testthat, zoo, xts, knitr
 License: GPL-2
-MD5sum: e164d66f0461fe8613b622b6e8f31a7c
+MD5sum: 390c23b150ebf09828afc6cb461c9652
 NeedsCompilation: no
 
 Package: mapData
