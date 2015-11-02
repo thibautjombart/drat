@@ -32,7 +32,7 @@ Imports: dplyr, ggmap, lubridate, assertthat, lazyeval, maptools, sp,
         spatstat, Hmisc
 Suggests: testthat
 License: CC0
-MD5sum: 7689a4ce0340ad2afb7f9e7e14dc8053
+MD5sum: 17648e8f6696b2b8e7d2b114d2072fec
 NeedsCompilation: no
 
 Package: outbreaker
