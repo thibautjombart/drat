@@ -64,3 +64,14 @@ License: GPL (>= 2)
 MD5sum: ba8712795a825f8f6e10095e9671dcac
 NeedsCompilation: no
 
+Package: treescape
+Version: 1.8.15
+Depends: R (>= 3.1.2), ape, ade4
+Imports: adephylo, shiny, RLumShiny, utils, adegenet, adegraphics,
+        combinat, compiler, phangorn, Rcpp, shinyBS, shinyRGL
+LinkingTo: Rcpp
+Suggests: RColorBrewer, ggplot2, rgl, testthat
+License: GPL (>= 2)
+MD5sum: 52234a82accb8b15622875f730139afb
+NeedsCompilation: yes
+
